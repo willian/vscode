@@ -1,0 +1,137 @@
+{
+  "ActiveFileInStatusBar.fullpath": false,
+  "breadcrumbs.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.folding": false,
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 18,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.glyphMargin": false,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    100
+  ],
+  "editor.scrollBeyondLastLine": false,
+  "editor.smoothScrolling": true,
+  "editor.snippetSuggestions": "top",
+  "editor.suggest.localityBonus": true,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "eslint.options": {
+    "env": {
+      "browser": true,
+      "jest/globals": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    },
+    "rules": {
+      "no-debugger": "off"
+    }
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.openEditors.visible": 0,
+  "extensions.ignoreRecommendations": false,
+  "files.associations": {
+    "*.md": "mdx",
+  },
+  "files.exclude": {
+    "USE_GITIGNORE": true,
+  },
+  "html.format.indentInnerHtml": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "npm-intellisense.importDeclarationType": "const",
+  "npm-intellisense.importES6": true,
+  "npm-intellisense.importLinebreak": ";\r\n",
+  "npm-intellisense.importQuotes": "'",
+  "npm-intellisense.scanDevDependencies": true,
+  "prettier.bracketSpacing": false,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.printWidth": 100,
+  "prettier.proseWrap": "always",
+  "prettier.requireConfig": true,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "prettier.useTabs": false,
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.format": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.interpreter.commandPath": "/Users/willian/.asdf/shims/ruby",
+  "ruby.lint": {
+    "rubocop": {
+      "autoCorrect": true,
+      "lint": true
+    },
+    "reek": true,
+  },
+  "ruby.locate": {
+    "include": "**/*.rb",
+    "exclude": "{**/@(test|spec|tmp|.*),**/@(test|spec|tmp|.*)/**,**/*_spec.rb}"
+  },
+  "ruby.specCommand": "docker-compose-run-spec",
+  "ruby.specSaveFile": true,
+  "ruby.useLanguageServer": true,
+  "[ruby]": {
+    "editor.defaultFormatter": "rebornix.ruby",
+    "editor.formatOnSave": true
+  },
+  "search.exclude": {
+    "**/.build": true,
+    "**/.gh-pages": true,
+    "**/bower_components": true,
+    "**/build": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "spellright.documentTypes": [
+    "markdown",
+    "plaintext",
+    "mdx"
+  ],
+  "spellright.language": [
+    "en",
+    "pt-BR"
+  ],
+  "spellright.parserByClass": {
+    "mdx": {
+      "parser": "markdown"
+    }
+  },
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "terminal.external.linuxExec": "hyper",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.fontFamily": "'Hack Nerd Font'",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.shell.linux": "/usr/local/bin/zsh",
+  "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "none",
+}

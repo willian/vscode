@@ -1,0 +1,18 @@
+# Extensions
+
+* [ban.spellright](https://marketplace.visualstudio.com/items?itemName=ban.spellright)
+* [christian-kohler.npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+* [CoenraadS.bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [formulahendry.auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [ionutvmi.path-autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+* [kaiwood.endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
+* [noku.rails-run-spec-vscode](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
+* [PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+* [rebornix.ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.ruby)
+* [RoscoP.ActiveFileInStatusBar](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)
+* [sdras.night-owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+* [Tyriar.sort-lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+* [VisualStudioExptTeam.vscodeintellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [wingrunr21.vscode-ruby](https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby)

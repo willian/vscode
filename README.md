@@ -5,12 +5,12 @@ My vscode configuration:
 * [extensions](./extensions.md)
 * [settings](./settings.json)
 ```
-cd /Users/willian/Library/Application\ Support/Code/User
+cd ~/Library/Application\ Support/Code/User
 ln -sf ~/GitHub/vscode/settings.json settings.json
 ```
 * [snippets](./snippets)
 ```
-cd /Users/willian/Library/Application\ Support/Code/User/snippets
+cd ~/Library/Application\ Support/Code/User/snippets
 ln -sf ~/GitHub/vscode/snippets/javascript.json javascript.json
 ln -sf ~/GitHub/vscode/snippets/javascript.json javascriptreact.json
 ln -sf ~/GitHub/vscode/snippets/javascript.json typescript.json

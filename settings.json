@@ -79,8 +79,8 @@
   "ruby.interpreter.commandPath": "/Users/willian/.asdf/shims/ruby",
   "ruby.lint": {
     "rubocop": {
-      "autoCorrect": true,
-      "lint": true
+      "command": "rubocop",
+      "autoCorrect": true
     },
     "reek": true,
   },
@@ -134,5 +134,5 @@
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "none",
-  "terminal.integrated.rendererType": "dom",
+  "terminal.integrated.rendererType": "dom"
 }

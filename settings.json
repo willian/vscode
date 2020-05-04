@@ -104,6 +104,7 @@
     "**/dist": true,
     "**/node_modules": true
   },
+  "search.quickOpen.history.filterSortOrder": "recency",
   "spellright.documentTypes": [
     "markdown",
     "plaintext",
@@ -125,6 +126,7 @@
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.fontFamily": "'Hack Nerd Font'",
   "terminal.integrated.fontSize": 16,
+  "terminal.integrated.rendererType": "dom",
   "terminal.integrated.scrollback": 10000,
   "terminal.integrated.shell.linux": "/usr/local/bin/zsh",
   "terminal.integrated.shell.osx": "/usr/local/bin/zsh",
@@ -133,6 +135,5 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "none",
-  "terminal.integrated.rendererType": "dom"
+  "workbench.startupEditor": "none"
 }

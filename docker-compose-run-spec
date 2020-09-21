@@ -1,4 +1,4 @@
-#! /Users/willian/.asdf/shims/ruby
+#! /usr/bin/env ruby
 require 'fileutils'
 
 spec_file = ARGV.last.dup
